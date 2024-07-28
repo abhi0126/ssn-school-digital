@@ -1,4 +1,21 @@
-.pencils-image {
-    background-image: url("../../assets/images/bg_pencils.jpg");
-    background-size: contain;
+.highlighted-info {
+    background-color: #e7e4e7;
+    padding: 15px;
+    margin: 20px 0;
+    font-size: 1.2em;
+    line-height: 1.5;
+}
+
+.highlighted-info h2 {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.highlighted-info p {
+    margin: 0;
+    padding: 5px 0;
+}
+
+.highlighted-info strong {
+    font-weight: bold;
 }
