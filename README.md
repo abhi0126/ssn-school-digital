@@ -4,7 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Build
 
-ng build --output-path docs --base-href /ssn/
+Build - ng build --output-path docs --base-href /ssn/
+Copy index.html in docs folder and update to 404.html
 
 ## Development server
 
